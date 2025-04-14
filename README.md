@@ -1,6 +1,6 @@
 # SGG-Net
 
-## Blind Image Inpainting with Dual Self-Guided Generators: Learning to Localize and Restore Missing Region
+## Blind Image Inpainting Method for Auto Missing Regions Identification and Restoration using two Self-Guided Generators
 
 ![Alt text](img/objectRemoval_page-0001.jpg)
 
